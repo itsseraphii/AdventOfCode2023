@@ -3,6 +3,8 @@
 ## What is Advent Of Code?
 Advent of code is a series of coding challenges in the form of an advent calendar : One challenge divided in two parts per day from December 1rst up until December 25th [https://adventofcode.com/](https://adventofcode.com/)
 
+### This framework has been copy-pasted from [William Fecteau](https://github.com/william-fecteau/AdventOfCodePythonFramework), thx for the framework my dude
+
 ## Why this framework?
 I created this python AoC framework to handle every basic action that you need to do every single day like : 
 
